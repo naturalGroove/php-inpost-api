@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": ">=7.1",
+        "php": ">=7.1|^8.0",
         "ext-json": "*",
         "imper86/php-http-cache-plugin": "^2.0",
         "imper86/http-client-builder": "^2.0"
